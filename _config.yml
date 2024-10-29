@@ -16,13 +16,13 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wikidata Quality Toolkit"
+title                    : "The workshop of More Than Gen AI 2025"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "KCL - KG lab"
-description              : "This is WQT website"
-url                      : "https://king-s-knowledge-graph-lab.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/WikidataQualityToolkit" # the subpath of your site, e.g. "/blog"
+name                     : "MoreThanGenAI2025 organizers"
+description              : "This website of MoreThanGenAI2025"
+url                      : "https://morethangenai2025.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"

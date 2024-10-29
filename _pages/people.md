@@ -4,36 +4,12 @@ title: People
 permalink: /people/
 ---
 
-### Project Team
+**Boyeun Lee** is an Assistant Professor in Design and Innovation at the University of Exeter Business School. Her research focuses on design-led digital innovation, emphasizing the use of big data and machine learning to create innovative products, services, and design processes.
 
-![Elena Simperl](../assets/images/Elena.png)
-- **Elena Simperl (ES, PI)**
-  Leading AI academic, PI of Data Stories, WDAqua, Cleopatra (where the research was conducted). PI of FP7 Render, the project that originally funded Wikidata (2010-2012). Director of research at the Open Data Institute, advises the European Commission on publishing and assuring open data. ES will lead the project, oversee the design of the toolkit, and manage the strategic partnership with the Wikimedia Foundation (WF).
+**Leah Chong** is a Postdoctoral Associate in the Department of Mechanical Engineering at MIT. In Spring 2025, she will join the Walker Department of Mechanical Engineering at UT Austin as an Assistant Professor. Her research centers on human-AI collaboration in engineering design, computational design methods, and human-centered design.
 
-![Albert Meroño Peñuela](../assets/images/Albert.png)
-- **Albert Meroño Peñuela (AMP, CoPI)**
-  With 10 years of experience in AI research, PI of MuseIT, which uses AI to add audio-visual content to Wikidata, with applications in cultural heritage. AMP will oversee all Wikidata community and be the first point of contact for SRSE.
+**Michael Stead** is a Lecturer in Sustainable Design Futures at Lancaster University’s School of Design and Imagination Research Lab. His interdisciplinary research explores the systemic opportunities and challenges of data-driven technologies (e.g., AI, IoT) for achieving climate goals like Net Zero and Circular Economies. Blending Design and HCI, he employs Speculative, More-than-Human, and Participatory Design approaches to support communities and industries in adopting sustainable, equitable data-driven technologies and practices.
 
-![Odinaldo Rodrigues](../assets/images/Odinaldo.png)
-- **Odinaldo Rodrigues (OR, CoI)**
-  An expert in knowledge representation and reasoning, co-director of the UKRI STAI CDT, editor of the J. of Logic and Computation and the Logic J. of the IGPL. OR has extensive software engineering expertise and will be leading our software sustainability work.
+**Jongmo Kim** is a Postdoctoral Research Associate in Informatics at King’s College London. His research focuses on knowledge graph representation learning using graph neural networks, generative methods, and large language models. Key applications include link prediction, explainable AI, time-sensitive recommendation systems, and multi-modal learning through knowledge graphs.
 
-![Jongmo Kim](../assets/images/Jongmo.png)
-- **Jongmo Kim**
-  He is an AI backend engineer for the WQT, responsible for tasks such as AI model deployment and inference pipeline development. His research primarily focuses on knowledge graph representation learning, utilizing graph neural networks, generative methods, and large language models.
-
-![Kholoud Alghamdi](../assets/images/Kholoud.jpg)
-- **Kholoud Alghamdi**
-  Kholoud Alghamdi is a PhD student in the Department of Informatics, where she serves as a key developer of Wikidata Game+, focusing on her innovative recommender systems. She earned her master's degree in Computer Science from the University of Southampton in 2018. Before joining King's College, she worked as a teaching assistant at King Abdulaziz University and as a data analyst in the industry. Her research centers on developing a task recommender system for the human community within community-driven knowledge graphs, with a primary focus on Wikidata.
-  
-![Miriam Redi](../assets/images/Miriam.png)
-- **Miriam Redi**
-  She is a Research Manager at the Wikimedia Foundation and Visiting Research Fellow at King's College London. Formerly, she worked as a Research Scientist at Yahoo Labs in Barcelona and Nokia Bell Labs in Cambridge. She received her PhD from EURECOM, Sophia Antipolis. She conducts research in social multimedia computing, working on fair, interpretable, multimodal machine learning solutions to improve knowledge equity.
-  
-![Yiwen Xing](../assets/images/Yiwen.png)
-- **Yiwen Xing**
-  She is currently a PhD candidate in Computer Science at King's College London and working UI/UX desinger for the WQT. She holds a Master of Science degree in Data Science from the same institution, achieving a distinction grade. Prior to that, she earned dual Bachelor of Science degrees in Statistics and Applied Psychology from East China Normal University. Yiwen possesses a robust background in Statistics and Data Science, with extensive experience in data analysis and visualization across various domains. She is proficient in both front-end and back-end programming techniques and is adept at developing lightweight web applications.
-
-![Bohui Zhang](../assets/images/Bohui.png)
-- **Bohui Zhang**
-  Bohui is a PhD student at the Department of Informatics, serving as the main engineer and developer of the EntitySchema Generator. His doctoral research will concentrate on explainable automatic knowledge engineering. The aim is to automate the knowledge engineering process using language model-driven methods and address transparency issues in the knowledge graph lifecycle by bridging the gap between research methods and practical knowledge engineering needs. This involves effectively integrating explainable AI methods into this space. Additionally, he is open to exploring other topics in semantic web and natural language processing.
+**Chris Speed FRSE** is a Professor of Design for Regenerative Futures at RMIT in Melbourne, Australia. He collaborates with diverse communities and partners to explore how design can support the transition to a regenerative society. Previously, he was a pivotal figure in establishing the Institute for Design Informatics at the University of Edinburgh, which developed advanced methods for designing from, with, and by data.

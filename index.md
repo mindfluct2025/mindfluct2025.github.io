@@ -2,43 +2,18 @@
 layout: home
 author_profile: False
 ---
-![WQT_main](assets/images/WQT_logo_2.png)
-
----
-# Welcome to WQT Website
-
-The Wikidata Quality Toolkit (WQT) is a comprehensive suite designed to support Wikidata editors and users. It includes tools such as Reference Quality Verification, Wikidata Game+, and EntitySchema Generator as its core components. As Wikidata continues to grow, ensuring its quality becomes a critical concern for both data providers and users. However, due to its large scale, dynamism, and complex data structure, maintaining Wikidata's quality is an increasingly non-trivial task, challenged by the limitations of community-based management.
-
-The WQT introduces a set of AI/ML-based tools aimed at enhancing the quality of Wikidata. By leveraging these toolkits, Wikidata editors are empowered to support the generation and refinement of Wikidata, thereby improving its overall quality. Likewise, Wikidata users are assured access to high-quality information, facilitating more reliable utilization and consumption.
-
-The WQT is open-source, offering data, software, and guidance to the community, researchers, and AI developers, reinforcing its commitment to improving Wikidata's quality and accessibility.
+![index_logo](assets/images/index_logo.png)
 
 ---
 
-<div class="row">
-  <div class="column">
-    <h2>  <img src="https://king-s-knowledge-graph-lab.github.io/WikidataQualityToolkit/assets/images/logo_RQV.jpg" width="100" height="100" alt="logo-RQV"> Reference Quality Verification (RQV)</h2>
-    <div class="content">
-      <p>RQV provides an automated pipeline that verifies whether Knowledge Graph triples are supported by their documented sources. It involves text extraction, triple verbalization, sentence selection, and claim verification using rule-based methods and machine learning models. The users can verify the reference quality of specific document or wikidata item by using this tool. Futhermore, this tool supports to verify a batch of documents and wikidata tiems automatically. </p>
-      <p> Link coming soon… </p>
-    </div>
-  </div>
+Artificial intelligence (AI) systems have increasingly demonstrated their promise in assisting and enhancing various design processes, such as service, product, engineering, and UI/UX design. Within the human-computer interaction (HCI) community, significant research attention has been directed towards understanding human interaction with AI and ways to improve it. While this research direction is undoubtedly important, HCI researchers should also focus on how AI can directly accelerate innovation across various design domains to positively impact both society and industry. Currently, much of this research centers heavily on generative AI, but there is a need in HCI to push beyond these boundaries.
 
----
-  
-  <div class="column">
-    <h2><img src="https://king-s-knowledge-graph-lab.github.io/WikidataQualityToolkit/assets/images/logo_wikidatagame+.jpg" width="100" height="100" alt="logo-WGP"> Wikidata Game+</h2>
-    <p>Wikidata Game+ builds upon the Wikidata Game by incorporating a novel recommendation system that provides personalised recommendation items for the editors, relying on both item features and item-editor previous interactions. It utilises users', items' content, and items' relations representations using matrix factorization, ELMo, and TransR embedding techniques. </p>
-    <p> Link coming soon… </p>
-   
-  </div>
+This workshop aims to provide HCI researchers at CHI a space to broaden their perspectives on AI in design and inspire impactful, forward-thinking research. By gathering insights and experiences from design researchers and practitioners across diverse fields, we hope to foster deep reflection on best practices, opportunities, challenges, and future visions for AI in design. The workshop will feature a keynote talk, multiple lightning talks, and structured activities and discussions.
 
----
+<small>
 
-  <div class="column">
-    <h2> <img src="https://king-s-knowledge-graph-lab.github.io/WikidataQualityToolkit/assets/images/logo_EntitySchemaGenerator.jpg" width="100" height="100" alt="logo-ESG"> EntitySchema Generator</h2>
-    <p>There are numerous issues with Wikidata modeling and data quality, with inconsistent modeling of EntitySchemas being one of the most significant challenges nowadays. The EntitySchema generator addresses this by generating reference patterns of entity schemas for specific topics of entities based on Large Language Models (LLMs). By training on both good and bad examples, it can generate reference patterns and evaluate the quality of entity schemas. Additionally, it can modify inconsistent entity schemas based on the generated best patterns, and provide explanations and additional comments leveraging the capabilities of LLMs. </p>
-    <p> Link coming soon… </p>
+### CCS Concepts
+- Human-centered computing → Human-computer interaction (HCI) → HCI theory, concepts, and models
 
-  </div>
-</div>
+### Additional Keywords and Phrases
+Design research, AI-driven innovation, Human-AI collaboration, HCI for innovation/design
