@@ -7,3 +7,25 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+$global-font-family: 'Nunito Sans', Sans-serif;
+$header-font-family: 'Nunito Sans', Sans-serif;
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+
+.archive {
+    font-weight: 200;
+  }
+
+body,
+.masthead__menu,
+.greedy-nav,
+.stie-nav,
+.page,
+.initial-content,
+#main,
+.page__hero--overlay {
+background-color: #000 !important;
+}
+
