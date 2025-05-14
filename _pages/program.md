@@ -6,32 +6,8 @@ permalink: /program/
 
 
 
-The workshop will be a full-day event, divided into two main parts:
+For the workshop, we will develop a bespoke tool: a deck of Confession Cards, which will be further co-designed with the participants during the session. This added tangibility means the session will become highly participatory and immersive. As outlined in Table 1, to collectively design pathways for Mindful Value Creation and Destruction in Human-Data Interaction, we will guide participants through the following three key activities: 
 
-- **Morning Session**: Starting with a keynote presentation to inspire discussion, followed by participant presentations of case studies on cutting-edge AI design innovations.
-- **Afternoon Session**: Focusing on exploring methodological approaches, challenges, and debates around embedding responsible innovation (e.g., ethical, sustainable, inclusive, equitable, and just AI) in next-generation AI design processes.
-
-The workshop will conclude with a collaborative development of a conceptual framework synthesizing the discussed ideas, along with establishing a research agenda. The preliminary schedule is as follows:
-
-**Table 1: Proposed Workshop Schedule**
-
-| Slot                    | Theme                                                                                                 |
-|-------------------------|-------------------------------------------------------------------------------------------------------|
-| 9:00 – 9:15 (15 min)    | Welcome                                                                                               |
-| 9:15 – 10:15 (60 min)   | Introduction to the workshop and keynote talk by a leading expert on AI-led design                    |
-| 10:15 – 11:00 (45 min)  | Paper Session 1: Lightning talks (3-min presentation with 2-min Q&A)                                  |
-| 11:00 – 11:15 (15 min)  | Coffee break and networking session                                                                   |
-| 11:15 – 12:00 (45 min)  | Paper Session 2: Lightning talks (3-min presentation with 2-min Q&A)                                  |
-| 12:00 – 13:30 (90 min)  | Lunch                                                                                                 |
-| 13:30 – 14:30 (60 min)  | Activity 1: Comprehending the Challenges and Trade-offs in Human-AI Collaboration for Design          |
-| 14:30 – 14:45 (15 min)  | Coffee break                                                                                          |
-| 14:45 – 15:45 (60 min)  | Activity 2: Envisioning the Future of AI in Design Research and Practice                              |
-| 15:45 – 16:00 (15 min)  | Coffee break                                                                                          |
-| 16:00 – 17:00 (60 min)  | Activity 3: Establishing a Research Agenda for More-than-Generative AI Innovation Futures             |
-| 17:00 – 17:45 (60 min)  | Presentation of results (5-min presentation with 3-min Q&A)                                           |
-| 17:45 – 18:00 (15 min)  | Closing remarks                                                                                       |
-
-For in-person participants at CHI, we will provide a physical version of our bespoke tools to create a participatory and immersive experience. Online participants will engage with digital versions of these tools, enabling collective design of pathways for More-than-Generative AI Innovation Futures through three key activities:
 
   <style>
     body {
