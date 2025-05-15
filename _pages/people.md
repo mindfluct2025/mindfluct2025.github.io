@@ -11,14 +11,14 @@ permalink: /people/
   align-items: flex-start;
 }
 .person-image {
-  width: 120px;
-  margin-right: 1.5em;
+  width: 200px;
+  margin-right: 2em;
   flex-shrink: 0;
 }
 .person-image img {
   width: auto;
-  height: 150px;
-  max-width: 120px;
+  height: 240px;
+  max-width: 200px;
   object-fit: contain;
   margin-top: 5px;
 }
@@ -27,6 +27,7 @@ permalink: /people/
 }
 .person-bio p {
   margin-top: 0;
+  font-size: 1.1em;
 }
 </style>
 

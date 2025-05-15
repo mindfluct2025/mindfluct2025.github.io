@@ -5,7 +5,7 @@ permalink: /cfp/
 ---
 
 
-Please submit a **2–3 page position paper** (excluding references) using the **ACM Primary Article Template** to **b.l.lee@exeter.ac.uk** by **XX. June. 2025**.
+Please submit a **1–2 page position paper** (excluding references) using the **ACM Primary Article Template** to **b.l.lee@exeter.ac.uk** by **20th. June. 2025**.
 
 Your submission should outline:
 - Research questions  
@@ -42,7 +42,7 @@ We invite submissions that explore:
 
 ## Note
 
-At least one author of each accepted submission must attend the workshop and present a relevant **artefact or object** related to their paper.  
+At least one author of each accepted submission must attend the workshop in person, and share your story with us.
 
 If you have questions, please contact: **b.l.lee@exeter.ac.uk**.
 
