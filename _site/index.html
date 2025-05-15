@@ -165,7 +165,7 @@
     </div>
   
   
-    <span class="page__hero-caption">AI-generated image of people expressing shame, positioned next to the “Design Regret Confess” Truck
+    <span class="page__hero-caption">AI-generated image of people expressing shame, positioned next to the “Design Regret Confess” Truck.
 </span>
   
 </div>
@@ -232,10 +232,9 @@
   <p>Unpacking the Complexity of Design Practice in Human-Data Interaction </p>
 
 
-  <p style="text-align:center; font-size:1.5em; margin:2em 0; font-style: italic; font-weight: 300;">
+  <p style="text-align:left; font-size:1.7em; margin:2em 0; font-style: italic; font-weight: 300;">
     Design doesn't always solve. Sometimes it deceives. Sometimes it harms. Sometimes the cost is hidden in the process.
   </p>
-
 
   <p>
   <b>This full-day workshop</b> aims to deepen our understanding of the complexities of design practice in relation to value creation and destruction within Human-Data Interaction. We will explore how design decisions shape particular versions of reality and navigate inherent value conflicts, while envisioning the future of mindful value destruction in human data interaction.
@@ -295,74 +294,53 @@ Please submit a <b>2–3 page position paper</b> (excluding references) using th
 .people-cards {
   display: flex;
   flex-wrap: wrap;
-  gap: 2em;
+  gap: 1.5em;
   justify-content: center;
   margin: 2em 0;
 }
-.namecard {
-  border: 1.5px solid #fff;
-  border-radius: 1em;
-  box-shadow: 0 2px 12px rgba(0,0,0,0.15);
-  padding: 1.5em;
-  width: 260px;
+.person {
   text-align: center;
+  width: 140px;
+}
+.person img {
+  width: auto;
+  height: 150px;
+  max-width: 140px;
+  object-fit: contain;
+  margin-bottom: 0.6em;
+}
+.person .name {
+  font-weight: 300;
+  font-size: 1em;
   color: #fff;
-  background: transparent;
-  transition: background 0.35s cubic-bezier(.4,2,.6,1), color 0.35s, box-shadow 0.35s;
-}
-.namecard.boyeun:hover   { background: #2d3a4a; color: #ffd600; }
-.namecard.leah:hover     { background: #3a2d4a; color: #ffd600; }
-.namecard.michael:hover  { background: #2d4a3a; color: #ffd600; }
-.namecard.jongmo:hover   { background: #4a3a2d; color: #ffd600; }
-.namecard.chris:hover    { background: #4a2d2d; color: #ffd600; }
-
-.namecard:hover {
-  box-shadow: 0 8px 32px rgba(255,255,255,0.18);
-}
-.namecard img {
-  width: 90px;
-  height: 90px;
-  object-fit: cover;
-  border-radius: 50%;
-  margin-bottom: 1em;
-  border: 2px solid #fff;
-  transition: border-color 0.35s;
 }
 </style>
 <div class="people-cards">
-  <div class="namecard boyeun">
-    <img src="/assets/images/Boyeun_Lee.jpeg" alt="Boyeun Lee">
-    <div style="font-weight: 700; font-size: 1.15em; margin-bottom: 0.3em;">Boyeun Lee</div>
-    <div style="font-size: 0.98em; color: #b0e0ff; margin-bottom: 0.5em;">Assistant Professor, Exeter</div>
-    <div style="font-size: 0.95em; color: #ccc;">Design-led digital innovation, big data, ML</div>
+  <div class="person">
+    <img src="/assets/images/Boyeun_Lee.png" alt="Boyeun Lee">
+    <div class="name">Boyeun Lee</div>
   </div>
-  <div class="namecard leah">
-    <img src="/assets/images/Leah_Chong.jpeg" alt="Leah Chong">
-    <div style="font-weight: 700; font-size: 1.15em; margin-bottom: 0.3em;">Leah Chong</div>
-    <div style="font-size: 0.98em; color: #b0e0ff; margin-bottom: 0.5em;">Postdoc, MIT → Assistant Prof., UT Austin</div>
-    <div style="font-size: 0.95em; color: #ccc;">Human-AI collaboration, computational design</div>
+  <div class="person">
+    <img src="/assets/images/Leah_Chong.png" alt="Leah Chong">
+    <div class="name">Leah Chong</div>
   </div>
-  <div class="namecard michael">
-    <img src="/assets/images/Michael_Stead.jpeg" alt="Michael Stead">
-    <div style="font-weight: 700; font-size: 1.15em; margin-bottom: 0.3em;">Michael Stead</div>
-    <div style="font-size: 0.98em; color: #b0e0ff; margin-bottom: 0.5em;">Lecturer, Lancaster</div>
-    <div style="font-size: 0.95em; color: #ccc;">Sustainable design, AI/IoT, participatory design</div>
+  <div class="person">
+    <img src="/assets/images/Michael_Stead.png" alt="Michael Stead">
+    <div class="name">Michael Stead</div>
   </div>
-  <div class="namecard jongmo">
-    <img src="/assets/images/Jongmo_Kim.jpeg" alt="Jongmo Kim">
-    <div style="font-weight: 700; font-size: 1.15em; margin-bottom: 0.3em;">Jongmo Kim</div>
-    <div style="font-size: 0.98em; color: #b0e0ff; margin-bottom: 0.5em;">AI Lead Engineer, Powertask</div>
-    <div style="font-size: 0.95em; color: #ccc;">Knowledge graphs, LLM agents, GraphRAG</div>
+  <div class="person">
+    <img src="/assets/images/Jongmo_Kim.png" alt="Jongmo Kim">
+    <div class="name">Jongmo Kim</div>
   </div>
-  <div class="namecard chris">
-    <img src="/assets/images/Chris_Speed.jpeg" alt="Chris Speed">
-    <div style="font-weight: 700; font-size: 1.15em; margin-bottom: 0.3em;">Chris Speed FRSE</div>
-    <div style="font-size: 0.98em; color: #b0e0ff; margin-bottom: 0.5em;">Professor, RMIT</div>
-    <div style="font-size: 0.95em; color: #ccc;">Regenerative futures, design informatics</div>
+  <div class="person">
+    <img src="/assets/images/Chris_Speed.png" alt="Chris Speed">
+    <div class="name">Chris Speed</div>
   </div>
 </div>
 
-
+<small>
+  <p class="image-credit">Header image: <a href="https://designregretconfess.com/">Design. Regret. Confess.</a>  is an ongoing project that was launched at Melbourne Design Week 2025, developed by Liam Fennessy, Miek Dunbar and Chris Speed.</p>
+</small>
 
 </div>
 
