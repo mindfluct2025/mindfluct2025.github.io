@@ -42,7 +42,6 @@ We invite submissions that explore:
 
 ## Note
 
-At least one author of each accepted submission must attend the workshop in person, and share your story with us.
-
+At least one author of each accepted submission must attend the workshop in person, and share your story with us. 
 If you have questions, please contact: **b.l.lee@exeter.ac.uk**.
 
