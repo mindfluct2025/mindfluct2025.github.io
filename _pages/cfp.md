@@ -12,22 +12,6 @@ permalink: /cfp/
 </P>  
 
 
----
-
-## Topics of Interest
-
-We invite submissions that explore:
-
-- Mindful value creation and destruction in data-driven design  
-- Ethical dilemmas and unintended consequences in Human-Data Interaction  
-- Critical reflections on complex design practices  
-- Alternative narratives challenging dominant views of innovation  
-- Speculative and participatory methods for navigating value tensions  
-- Cross-disciplinary perspectives (e.g., sustainable design, more-than-human, STS)
-
-
----
-
 ## Important Dates
 
 - **Submission deadline:** 20th. June. 2025 
