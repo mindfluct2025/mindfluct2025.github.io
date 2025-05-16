@@ -5,16 +5,12 @@ permalink: /cfp/
 ---
 
 
-Please submit a **1–2 page position paper** (excluding references) using the **ACM Primary Article Template** to **b.l.lee@exeter.ac.uk** by **20th. June. 2025**.
+<p>
+  We call for position papers or case studies (a 1- to 2- page including references, in the ACM Extended Abstracts format) to be submitted to b.l.lee@exeter.ac.uk by 20th June 2025. 
+  We also encourage alternative submission formats, such as demos, or videos. Submissions should relate to participants' previous experience with data-driven value destruction in design research or projects, as well as their insights and challenges in complex design practices. Submissions will be selected based on relevance and quality, with an emphasis on ensuring diversity among participants. 
+  All accepted papers will be presented, provided at least one author attends the workshop and registers for at least one day of the conference. Following the workshop, the accepted submissions and materials generated during the workshop will be published on our website.
+</P>  
 
-Your submission should outline:
-- Research questions  
-- Background  
-- Motivation  
-- Work-in-progress  
-- Anticipated outcomes  
-
-The paper should relate to the workshop theme and can take either a **positioning** or **pictorial** format. Submissions will be evaluated based on **relevance, quality, and diversity**.
 
 ---
 
